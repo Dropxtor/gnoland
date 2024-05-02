@@ -1,2 +1,2 @@
 # gnoland
-contribute
+contribute cps token => https://gnoscan.io/tokens
